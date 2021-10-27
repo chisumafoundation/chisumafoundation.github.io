@@ -2,7 +2,7 @@
 lang: en
 title: Chisuma Foundation
 tagline: Chisuma Foundation
-email: chisumafoundation@example.com
+email: chisumafoundation@gmail.com
 description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chisumafoundation.github.io" # the base hostname & protocol for your site, e.g. http://example.co
@@ -22,6 +22,9 @@ disqus:
   # shortname: my_disqus_shortname
   # shortname: chisumafoundation
 
+facebook_username: chisumafoundationtrust
+twitter_username: chisumafdn
+github_username:  chisumafoundation # replace with your_github_username or comment to remove link from footer
 
 plugins:
   - jekyll-sitemap
@@ -68,7 +71,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 
 collections:
   products: 

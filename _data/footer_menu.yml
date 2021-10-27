@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Mission
+  link: /mission/
+- name: Community Service
+  link: /community service/
+- name: Success Stories
+  link: /success stories/
