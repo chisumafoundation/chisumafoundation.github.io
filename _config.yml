@@ -60,12 +60,12 @@ defaults:
       show_sidebar: true
   -
     scope:
-      path: ""
+      path: "assets/img"
       type: "posts"
     values:
       author: "Chisuma Foundation"
       layout: post
-      image: "assets/img"
+      image: true
       show_sidebar: true
 
 markdown: kramdown
