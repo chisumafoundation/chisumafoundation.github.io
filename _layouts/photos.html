@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if photos.toc %}
+    {% assign contentsTitle = photos.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+<div class="content">
+    {{ content }}
+
+    <img src="{{- photos.image1 -}}" alt="">
+</div>
