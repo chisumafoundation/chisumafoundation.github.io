@@ -5,5 +5,5 @@ subtitle: Welcome To Chisuma Foundation
 hero_height: is-large
 show_sidebar: false
 hide_footer: false
-hero_image: /assets/img/vf1.jpeg
+hero_image: /assets/img/kids3.jpeg
 ---
